@@ -1,2 +1,2 @@
 # LaurTor2.github.io
-Thors Hammer
+Mjölnir
